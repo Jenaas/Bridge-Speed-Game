@@ -29,7 +29,7 @@ Jednoduše si buď stáhnete soubory s hrou z Githubu a poté tyto přenesete na
 <div>Postupoval od začátků určením jednoduchých cyklů for a while a poté jsem také pracoval s funkcemi def</div>
 <div>Následně jsem musel pracovat s funkcemi z knihoven pygame, což byla nejsložitější část na celém programu, jelikož jsem s nima neměl žádnou zkušenost. S tímto problémem jsem si musel vypomoci pomocí internetu a při nefunkčních pokusech o zprovoznění programu, tak i umělé inteligence. Pro použitá auta jsem poté musel dodat složku s obrázkami aut .</div>
 <br>Přikládám stránku ze které jsem bral použité obrázky aut: <a href ="https://opengameart.org/content/free-top-down-car-sprites-by-unlucky-studio">Klikněte zde</a></br>
-
+<br>Přikládám YouTube ze které jsem vycházel: <a href ="https://www.youtube.com/@clickclackcode/videos">Klikněte zde</a></br>
 
 <br><i><h3>6. Co jsem se nového přiučil?</h3></i></br>
 
